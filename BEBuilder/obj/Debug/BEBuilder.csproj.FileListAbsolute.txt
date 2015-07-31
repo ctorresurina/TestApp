@@ -1,0 +1,5 @@
+c:\Users\carlos.torres\documents\visual studio 2012\Projects\TestApp\BEBuilder\bin\Debug\BEBuilder.dll
+c:\Users\carlos.torres\documents\visual studio 2012\Projects\TestApp\BEBuilder\bin\Debug\BEBuilder.pdb
+c:\Users\carlos.torres\documents\visual studio 2012\Projects\TestApp\BEBuilder\obj\Debug\BEBuilder.csprojResolveAssemblyReference.cache
+c:\Users\carlos.torres\documents\visual studio 2012\Projects\TestApp\BEBuilder\obj\Debug\BEBuilder.dll
+c:\Users\carlos.torres\documents\visual studio 2012\Projects\TestApp\BEBuilder\obj\Debug\BEBuilder.pdb

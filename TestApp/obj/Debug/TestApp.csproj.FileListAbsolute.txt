@@ -1,0 +1,9 @@
+c:\users\carlos.torres\documents\visual studio 2012\Projects\TestApp\TestApp\bin\Debug\TestApp.exe.config
+c:\users\carlos.torres\documents\visual studio 2012\Projects\TestApp\TestApp\bin\Debug\test.accdb
+c:\users\carlos.torres\documents\visual studio 2012\Projects\TestApp\TestApp\bin\Debug\TestApp.exe
+c:\users\carlos.torres\documents\visual studio 2012\Projects\TestApp\TestApp\bin\Debug\TestApp.pdb
+c:\users\carlos.torres\documents\visual studio 2012\Projects\TestApp\TestApp\bin\Debug\BEBuilder.dll
+c:\users\carlos.torres\documents\visual studio 2012\Projects\TestApp\TestApp\bin\Debug\BEBuilder.pdb
+c:\users\carlos.torres\documents\visual studio 2012\Projects\TestApp\TestApp\obj\Debug\TestApp.csprojResolveAssemblyReference.cache
+c:\users\carlos.torres\documents\visual studio 2012\Projects\TestApp\TestApp\obj\Debug\TestApp.exe
+c:\users\carlos.torres\documents\visual studio 2012\Projects\TestApp\TestApp\obj\Debug\TestApp.pdb
